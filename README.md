@@ -6,3 +6,5 @@ To assess the profitability of the business, the dashboard includes the YTD prof
 Moreover, the dashboard offers valuable insights into product performance by presenting the top and bottom 5 products based on their contribution to profitability. The top 5 products are those that have generated the highest profits during the YTD period, highlighting key revenue drivers and highlighting successful products. Conversely, the bottom 5 products indicate those with the lowest profitability, allowing for targeted analysis and potential areas of improvement.
 
 With its concise and visually appealing layout, the YTD Sales and Profit Dashboard empowers decision-makers to gain a comprehensive understanding of financial performance for the current year. It facilitates strategic decision-making by highlighting sales trends, profitability ratios, and product-specific insights, enabling businesses to identify areas of success and areas that require attention for further growth and optimization.
+
+Inspired by Data Tutorials (youtube)
